@@ -1,3 +1,6 @@
+<img width="1827" height="923" alt="PostmanAPIClientSS" src="https://github.com/user-attachments/assets/d986c6a0-afd8-4a05-8258-f470c494086f" />
+
+
 \# 🌦️ Weather API
 
 Spring Boot ve MS SQL kullanılarak geliştirilmiş basit bir \*\*REST API\*\* projesi.  
